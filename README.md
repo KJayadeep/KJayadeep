@@ -37,7 +37,6 @@
 |----------|--------------|------|
 | 🎵 **LosslessStream** | High-quality FLAC music streaming platform hosted on Cloudflare R2 | Next.js, Node.js, MongoDB |
 | 🚗 **Vehicle Speed Detection** | YOLOv8-based local and centralized detection pipeline | Python, OpenCV, YOLOv8 |
-| 🧠 **AI Pricing Model** | Predicts product prices using NLP and ML ensemble models | LightGBM, SBERT, CLIP |
 
 ---
 
