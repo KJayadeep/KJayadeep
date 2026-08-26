@@ -2,7 +2,7 @@
 <!--   PROFILE README — TERMINAL EDITION           -->
 <!-- ============================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Hey%2C%20I'm%20%5BJaya%20Deep K%5D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20PostgreSQL%20%2B%20AI-Driven%20CI%2FCD&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Hey%2C%20I'm%20%5BJaya%20DeepK%5D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20PostgreSQL%20%2B%20AI-Driven%20CI%2FCD&descAlignY=58&descSize=18" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=00C9A7&center=true&vCenter=true&width=700&lines=%24+whoami;%3E+full-stack+developer;%24+cat+skills.txt;%3E+MERN+%7C+PostgreSQL+%7C+AI-powered+CI%2FCD;%24+echo+%22building+things+that+ship%22" alt="Typing SVG" />
